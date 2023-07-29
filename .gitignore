@@ -1,0 +1,5 @@
+build/
+nasops.egg*
+dist/
+setup.cfg
+PKG-INFO
